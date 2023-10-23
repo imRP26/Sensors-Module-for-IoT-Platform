@@ -1,2 +1,1 @@
-# Sensors-Module-for-IoT-Platform
-Complete information about the Sensors' Module in use by this IoT Platform -> https://github.com/Animeshnbe/IoTPlatform_Hackatoons
+### Final Version of Sensors' Module for Team Hackatoons for the course Internals of Application Servers, Dpring'23, IIIT Hyderabad
